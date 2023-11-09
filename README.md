@@ -7,10 +7,6 @@
 
 # This is an Amazon product scraper, consisting of a Node.js backend and frontend in a web interface Node.js
 
-<h1 align="center">
-  <a href="https://6546b8a8ffce14594668e39b--sprightly-pothos-2f8718.netlify.app/">website view <img src="./assets/img/iconAcimaDireitaBlue.png" alt="Imagem/Icone seta a direita blue" style="width: 20px; height: 20px; margin-left: 5px;"></a>
-</h1>
-
 ## Objective
 
 Create a simple script to scrape Amazon product listings from the first page of search results for a given keyword.
@@ -99,3 +95,7 @@ The implementation posed challenges, especially because most of the documentatio
 In the third stage, I applied my logic to devise how the results would be returned to the web page after the user entered the product's name.
 
 ## 💻 Layout Node.js
+
+
+https://github.com/GabrielAlvesGit/AmazonScraperNode.js/assets/102634725/e459d768-70ea-455d-8312-77576e824e82
+
